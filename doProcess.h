@@ -1,7 +1,7 @@
 #ifndef __DOPROCESS_H
 #define __DOPROCESS_H
 
-#define M_PI 3.14
+//#define M_PI 3.14
 
 static inline float from_degrees(float degrees)
 {
